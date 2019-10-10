@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.header {
+  width: 100%;
+  padding: 3%;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  background-color: rgb(201, 89, 182);
+}
+
+.footer {
+  width: 100%;
+  padding: 3%;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  background-color: rgb(88, 116, 12);
+}
+
+.loginbox {
+  width: 30%;
+  height: 500px;
+  background-image: radial-gradient(circle, rgb(152, 212, 12) 0%, rgb(100, 145, 58) 100%);
+  margin: 20px 0px;
+}
+
+.loginhead {
+  text-align: center;
+  color: aliceblue;
+  margin-bottom: 50px;
+}
+
+button {
+  width: 100px;
+}
+
+.btnholder {
+  text-align: center;
+}
+
+label {
+  color: whitesmoke;
+}
+
+.mgntop {
+  margin-top: 30px;
+}
